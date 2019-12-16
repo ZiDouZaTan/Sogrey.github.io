@@ -3,6 +3,29 @@
   
     
     <entry>
+      <title>总结2019,展望2020</title>
+      <link href="/article/%E6%80%BB%E7%BB%932019-%E5%B1%95%E6%9C%9B2020/"/>
+      <url>/article/%E6%80%BB%E7%BB%932019-%E5%B1%95%E6%9C%9B2020/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>看一眼<a href="/article/再见2018，你好2019/">2018年总结</a>。</p><p>2019年也接近尾声了，总结还是要有的，万一发现什么了不得呢！</p><p>先占坑…</p><a id="more"></a>]]></content>
+      
+      
+      <categories>
+          
+          <category> 年终总结 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 年终总结 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>使用hugo搭建个人博客</title>
       <link href="/article/%E4%BD%BF%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
       <url>/article/%E4%BD%BF%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
@@ -922,9 +945,9 @@
       
         <tags>
             
-            <tag> 手记 </tag>
-            
             <tag> PPT </tag>
+            
+            <tag> 手记 </tag>
             
             <tag> WebApp </tag>
             
@@ -949,9 +972,9 @@
       
         <tags>
             
-            <tag> 手记 </tag>
-            
             <tag> PPT </tag>
+            
+            <tag> 手记 </tag>
             
             <tag> 微信小程序 </tag>
             
